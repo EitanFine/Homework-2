@@ -1,0 +1,59 @@
+.aboutMe{  background-color: mediumslateblue;
+
+
+    font-family: 'Roboto Slab',serif;
+    color: white;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+  
+}
+
+
+.jumbotron{ background-color: #6cd6c4;
+    font-family: 'Roboto Slab',serif;
+    color: white;
+    
+
+    }
+
+.aboutMe img {float: left;}
+
+
+
+.row {text-align: center;}
+
+.jumbotron1 {   background-color: #6cd6c4;
+
+
+}
+
+
+.jumbotron2 {
+    background-color:yellowgreen;
+    
+}
+
+.tiny img {width: 30%;
+
+    height: 40%;
+
+}
+
+
+.tiny {text-align: center;}
+
+
+    
+.footer {background-color:black;
+height: 50px;
+
+text-align: center;
+position: fixed;
+width: 100%;
+bottom: 0px;}
+
+
+.text-muted {color: white;}
+
+
+
